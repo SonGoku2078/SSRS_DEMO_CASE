@@ -1096,7 +1096,7 @@ Order by 1 asc</CommandText>
               <Paragraph>
                 <TextRuns>
                   <TextRun>
-                    <Value>Test</Value>
+                    <Value />
                     <Style>
                       <FontFamily>Segoe UI Light</FontFamily>
                       <FontSize>28pt</FontSize>
@@ -1159,7 +1159,7 @@ Order by 1 asc</CommandText>
               <Paragraph>
                 <TextRuns>
                   <TextRun>
-                    <Value>Menge in Kilo</Value>
+                    <Value>Stückzahl in Kilo</Value>
                     <Style>
                       <FontWeight>Bold</FontWeight>
                     </Style>
@@ -1170,7 +1170,7 @@ Order by 1 asc</CommandText>
               <Paragraph>
                 <TextRuns>
                   <TextRun>
-                    <Value>(LY,ACT,BUD)</Value>
+                    <Value>(PY,ACT,BUD)</Value>
                     <Style>
                       <FontWeight>Bold</FontWeight>
                     </Style>
@@ -1202,18 +1202,15 @@ Order by 1 asc</CommandText>
               <Paragraph>
                 <TextRuns>
                   <TextRun>
-                    <Value>Menge in Kilo</Value>
+                    <Value>D </Value>
                     <Style>
+                      <FontFamily>Symbol</FontFamily>
+                      <FontSize>12pt</FontSize>
                       <FontWeight>Bold</FontWeight>
                     </Style>
                   </TextRun>
-                </TextRuns>
-                <Style />
-              </Paragraph>
-              <Paragraph>
-                <TextRuns>
                   <TextRun>
-                    <Value>(LY,ACT,BUD)</Value>
+                    <Value> ACT-PY</Value>
                     <Style>
                       <FontWeight>Bold</FontWeight>
                     </Style>
@@ -1727,12 +1724,6 @@ Order by 1 asc</CommandText>
   <ReportParameters>
     <ReportParameter Name="Par_Year">
       <DataType>String</DataType>
-      <DefaultValue>
-        <DataSetReference>
-          <DataSetName>Fact_Orders_Param_Year_DefaultValue</DataSetName>
-          <ValueField>YearNo</ValueField>
-        </DataSetReference>
-      </DefaultValue>
       <Prompt>Par Year</Prompt>
       <ValidValues>
         <ParameterValues>
