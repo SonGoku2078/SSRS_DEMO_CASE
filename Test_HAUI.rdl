@@ -1704,6 +1704,20 @@ Order by 1 asc</CommandText>
               <BackgroundColor>Yellow</BackgroundColor>
             </Style>
           </Rectangle>
+          <Rectangle Name="Rectangle3">
+            <KeepTogether>true</KeepTogether>
+            <Top>19.41512mm</Top>
+            <Left>130.01096mm</Left>
+            <Height>55.82708mm</Height>
+            <Width>35.98333mm</Width>
+            <ZIndex>9</ZIndex>
+            <Style>
+              <Border>
+                <Style>None</Style>
+              </Border>
+              <BackgroundColor>LightSkyBlue</BackgroundColor>
+            </Style>
+          </Rectangle>
         </ReportItems>
         <Height>224.33491mm</Height>
         <Style>
