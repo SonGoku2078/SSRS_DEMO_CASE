@@ -1070,7 +1070,7 @@ Order by 1 asc</CommandText>
               </Style>
             </ChartNoDataMessage>
             <DataSetName>Fact_Orders</DataSetName>
-            <Top>87.44479mm</Top>
+            <Top>107.54078mm</Top>
             <Left>35.71875mm</Left>
             <Height>3.70834in</Height>
             <Width>9.73958in</Width>
@@ -1109,6 +1109,7 @@ Order by 1 asc</CommandText>
             <rd:WatermarkTextbox>Title</rd:WatermarkTextbox>
             <rd:DefaultName>ReportTitle</rd:DefaultName>
             <Top>0mm</Top>
+            <Left>0cm</Left>
             <Height>12.7mm</Height>
             <Width>139.7mm</Width>
             <ZIndex>1</ZIndex>
@@ -1150,7 +1151,7 @@ Order by 1 asc</CommandText>
               </Paragraph>
             </Paragraphs>
             <rd:DefaultName>Textbox26</rd:DefaultName>
-            <Top>113.87137mm</Top>
+            <Top>133.96736mm</Top>
             <Left>4.33387mm</Left>
             <Height>29.63333mm</Height>
             <Width>28.31042mm</Width>
@@ -1190,7 +1191,7 @@ Order by 1 asc</CommandText>
               </Paragraph>
             </Paragraphs>
             <rd:DefaultName>Textbox26</rd:DefaultName>
-            <Top>37.71547mm</Top>
+            <Top>70.51146mm</Top>
             <Left>4.33387mm</Left>
             <Height>29.63333mm</Height>
             <Width>28.31042mm</Width>
@@ -1627,7 +1628,7 @@ Order by 1 asc</CommandText>
               </Style>
             </ChartNoDataMessage>
             <DataSetName>Fact_Orders</DataSetName>
-            <Top>13.75833mm</Top>
+            <Top>33.85432mm</Top>
             <Left>35.71875mm</Left>
             <Height>2.71875in</Height>
             <Width>9.73958in</Width>
@@ -1648,7 +1649,7 @@ Order by 1 asc</CommandText>
             </cl:ComponentMetadata>
           </Chart>
           <Line Name="Line1">
-            <Top>67.3488mm</Top>
+            <Top>87.44479mm</Top>
             <Left>38.99429mm</Left>
             <Height>0mm</Height>
             <Width>234.06804mm</Width>
@@ -1664,7 +1665,7 @@ Order by 1 asc</CommandText>
             <Source>Embedded</Source>
             <Value>IT_Logix_Logo250x70</Value>
             <Sizing>FitProportional</Sizing>
-            <Top>14.12346mm</Top>
+            <Top>4.32153mm</Top>
             <Left>4.33387mm</Left>
             <Height>19.05mm</Height>
             <Width>69.32083mm</Width>
@@ -1675,8 +1676,6 @@ Order by 1 asc</CommandText>
               </Border>
             </Style>
           </Image>
-<<<<<<< HEAD
-<<<<<<< HEAD
           <Rectangle Name="Rectangle1">
             <KeepTogether>true</KeepTogether>
             <Top>18.00401mm</Top>
@@ -1719,10 +1718,6 @@ Order by 1 asc</CommandText>
               <BackgroundColor>LightSkyBlue</BackgroundColor>
             </Style>
           </Rectangle>
-=======
->>>>>>> parent of 741bab3... Farbige Rechtecke ersellt
-=======
->>>>>>> parent of 741bab3... Farbige Rechtecke ersellt
         </ReportItems>
         <Height>224.33491mm</Height>
         <Style>
